@@ -1,0 +1,78 @@
+.glob{
+    margin-top: 100px;
+    border: 2px solid gray;
+    width: 700px;
+    margin-left: 300px;
+    position: absolute;
+    height: 500px;
+    color:black;  
+    box-shadow: 60px -16px rgb(173, 201, 201);
+}
+.card{
+    width: 300px;
+    height: 200px;
+    border-color: 1px solid black;
+    background-image:url("./bg.jpeg");
+   background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+    margin-left: 200px;
+    position: relative;
+    
+  
+
+}
+.pus-img{
+    margin-top: 40px;
+    margin-right: 200px;
+}
+form{
+    margin-top: 30px;
+    margin-left: 500px;
+    border:2px solid blue;
+    width: 300px;
+    height: 100px;
+}
+.RIB{
+    position: relative;
+    top: -30px;
+    left: -20px;
+    
+}
+.nn{
+    position: relative;
+    margin-right: 250px;
+    top: 75px;
+    left: 34px;
+}
+.name{
+     position:relative;
+     top: 75px;
+     left: -84px;
+
+    
+}
+.exp1{
+    position: relative;
+    top: 40px;
+   left: 100px;
+}
+.exp{
+    position: relative;
+    top: 40px;
+   left: 100px;
+
+}
+form{
+    margin-top: 30px;
+    margin-left: 200px;
+    border:2px solid cornflowerblue;
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+}
+.inp-tap{
+    margin-top: 5px;
+    width: 200px;
+    background-color: transparent;
+}
